@@ -1,0 +1,3 @@
+# Local, ephemeral automation state — not shared across contributors/commits.
+# See .claude/skills/improvement-review/SKILL.md for why this isn't committed.
+.claude/state/
