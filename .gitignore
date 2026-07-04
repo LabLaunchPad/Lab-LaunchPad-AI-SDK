@@ -1,3 +1,9 @@
 # Local, ephemeral automation state — not shared across contributors/commits.
 # See .claude/skills/improvement-review/SKILL.md for why this isn't committed.
 .claude/state/
+
+# Local secret vault — API keys and other credentials. Never committed.
+# See scripts/vault.sh and docs/SECRETS.md.
+.claude/secrets/
+.env
+.env.local
